@@ -1,0 +1,1 @@
+console.log('Umur Saya 19 tahun');
