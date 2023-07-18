@@ -1,0 +1,1 @@
+document.write("XII-RPL-1")
